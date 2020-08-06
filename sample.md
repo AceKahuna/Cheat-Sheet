@@ -1,3 +1,9 @@
+<!-- uses -->
+//Readme Files -Github
+//Forum and Blog posts
+//in static site generators
+
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
